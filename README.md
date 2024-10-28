@@ -1,1 +1,1 @@
-# littel-js-bolg
+# little-js-bolg
